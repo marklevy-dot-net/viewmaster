@@ -1,0 +1,11 @@
+data/
+olddata/
+.htaccess
+www/wp-content/uploads/
+www/.profile
+**/node_modules/
+**/package-lock.json
+**/.DS_Store
+**/._.DS_Store
+art/
+www/wp-config.php
